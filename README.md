@@ -4,3 +4,4 @@
     - aws-upload.zip으로 압축
         - 파일을 압축할 때 압축 파일 안에 바로 코드가 들어가야 함
         - 압축 해제했을때 aws-upload폴더가 보이면안되며, 바로 node_modules나 index.js등이 보여야함
+    - sharp패키지를 사용
